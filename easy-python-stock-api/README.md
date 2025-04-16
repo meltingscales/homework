@@ -2,6 +2,8 @@
 
 For this homework, you're going to consume API data from a simple API, and make a chart of it.
 
+The chart code is already written. But our backend engineers aren't sure how to consume the API. That's where you come in :)
+
 ## Running the server
 
 2. Run:
